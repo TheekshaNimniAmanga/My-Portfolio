@@ -1,0 +1,62 @@
+.header {
+    padding: 20px;
+    background: linear-gradient(45deg, #121212, #1d1d1d);
+  }
+  
+  .navbar ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    padding: 0;
+  }
+  
+  .navbar a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.2rem;
+  }
+  
+  .hire-me-btn {
+    background-color: #7b2cbf;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .hero-section {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .name-highlight {
+    color: #7b2cbf;
+  }
+  
+  .role-highlight {
+    color: #b5179e;
+  }
+  
+  .social-icons {
+    margin: 20px 0;
+  }
+  
+  .action-buttons button {
+    margin: 10px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .download-cv-btn {
+    background-color: #6a0dad;
+    color: white;
+  }
+  
+  .contact-me-btn {
+    background-color: #480ca8;
+    color: white;
+  }
+  

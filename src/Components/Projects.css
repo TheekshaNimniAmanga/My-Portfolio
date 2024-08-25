@@ -1,0 +1,35 @@
+.projects-section {
+    padding: 50px;
+    background-color: #1d1d1d;
+    color: #fff;
+    text-align: center;
+  }
+  
+  .project-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .project-item {
+    margin: 20px;
+    padding: 20px;
+    background-color: #2a2a2a;
+    border-radius: 8px;
+    max-width: 300px;
+    text-align: left;
+  }
+  
+  .project-item h3 {
+    margin-top: 0;
+  }
+  
+  .project-item a {
+    color: #7b2cbf;
+    text-decoration: none;
+  }
+  
+  .project-item a:hover {
+    text-decoration: underline;
+  }
+  
